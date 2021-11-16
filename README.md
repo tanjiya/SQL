@@ -37,3 +37,6 @@ Extract the data. We will get two file and the data will be in CSV format. So, w
 <p>To import the data, right click on the table where we want to load data and choose Import/Export. Choose the file, file extension, set headers on, and set escape to "". As we have double quoted data or simply modify the data manually.</p>
 <p><b>Step 4:</b> It's done. Check if the data has loaded correctly or not: select * from OLYMPICS_HISTORY;
 select * from OLYMPICS_HISTORY_NOC_REGIONS;</p>
+
+#### # Question and answer:
+I have added question and answer into separate file. Please check the file section.
